@@ -1,5 +1,7 @@
 # Advent-Of-Code-2022
 
+## Video walkthrough series: [Advent of Code 2022](https://youtube.com/playlist?list=PL3LpcHjwiNEc0lYjDhcbwTv9uiQMT_wV8) 
+
 Welcome to the Advent of Code[^aoc] Kotlin project created by [snyderconsulting][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
 In this repository, snyderconsulting is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
